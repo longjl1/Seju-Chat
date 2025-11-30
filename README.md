@@ -1,5 +1,7 @@
 # Seju — Intelligent RAG Chat System
 
+- ![image]({https://github.com/longjl1/Seju-Chat/blob/main/app/src/demo.png})
+
 **Search, Embed, Join, Unify**
 
 An intelligent document Q&A system built on LangChain + Gemini + MongoDB Atlas + Next.js
@@ -470,6 +472,7 @@ LOG_LEVEL=verbose
 ## Contributing
 
 Contributions are welcome! 
+
 ---
 
 ## License
@@ -492,8 +495,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, please:
 
 - Open an issue on GitHub
-- Contact: your-email@example.com
-- Project Link: [https://github.com/yourname/seju](https://github.com/yourname/seju)
+- Contact: >.<#3
+- Project Link: [https://github.com/longjl1/seju](https://github.com/longjl1/seju)
 
 ---
 
