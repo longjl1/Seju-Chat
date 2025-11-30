@@ -1,6 +1,6 @@
 # Seju — Intelligent RAG Chat System
 
-![image]({app/src/demo.png})
+![Seju-Chat]({app/src/demo.png})
 
 **Search, Embed, Join, Unify**
 
