@@ -494,8 +494,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, please:
 
 - Open an issue on GitHub
-- Contact: >.<#3
-- Project Link: [https://github.com/longjl1/seju](https://github.com/longjl1/seju)
 
 ---
 
